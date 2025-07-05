@@ -1,7 +1,0 @@
-# ცვლადი
-name = "saba gogokhia"
-print(name)
-print("ცვლადი არის ადგილი სადაც ინახება ნებისმიერი სახის მონაცემები")
-num1 = 15
-num2 = 12
-print(num1+num2)
